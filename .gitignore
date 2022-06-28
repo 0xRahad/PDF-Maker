@@ -1,0 +1,14 @@
+.gradle
+# User-specific configurations
+/.directory
+
+.idea/
+*.iml
+/local.properties
+
+.DS_Store
+/build
+/captures
+app/release/
+app/build/
+java_pid*.hprof
